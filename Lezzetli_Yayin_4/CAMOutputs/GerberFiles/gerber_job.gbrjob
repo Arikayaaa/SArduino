@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2020-09-17T05:33:54Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "SArduino"
+        },
+        "Owner": "Suleyman Arkaya <1316140013@ogr.iu.edu.tr>",
+        "Size": {
+            "X": 69.849209,
+            "Y": 48.26
+        }
+    }
+}
