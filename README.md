@@ -1,5 +1,7 @@
 # SArduino
 
+
+![Schmatic](https://user-images.githubusercontent.com/38187643/174643112-7ce5e647-6b0d-496b-b51f-f0a83dacc43c.PNG)
 ![PCB_Top](https://user-images.githubusercontent.com/38187643/174637783-80b82698-d6bd-47fc-aa4a-5a3b441b7e73.PNG)
 ![PCB_Top_2](https://user-images.githubusercontent.com/38187643/174637772-76503bc0-ddac-433b-96c3-f65ec4669d05.PNG)
 ![PCB_Bot](https://user-images.githubusercontent.com/38187643/174637828-7a3bcc13-58bf-47b8-8e6a-6c1db6d883e0.PNG)
